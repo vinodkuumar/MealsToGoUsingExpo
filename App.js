@@ -15,7 +15,7 @@ import { Navigation } from "./src/infrastructure/navigation";
 import { AuthenticationContextProvider } from "./src/services/authentication/authentication.context";
 
 var firebaseConfig = {
-  apiKey: 'AIzaSyATgMM_neDDQYNmBqRZKOIC5iUa--Pq3U8',
+  apiKey: '',
   authDomain: 'mealstogo-46eae.firebaseapp.com',
   projectId: 'mealstogo-46eae',
   storageBucket: 'mealstogo-46eae.appspot.com',
